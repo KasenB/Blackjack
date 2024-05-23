@@ -1,6 +1,6 @@
 public class Player {
 
-    int points;
+    public int points;
     public Card[] hand;
 
     public Player(){
